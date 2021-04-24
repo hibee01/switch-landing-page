@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="198" height="60" viewBox="0 0 198 60">
+  <g id="switch-logo" transform="translate(-4189 -20105)">
+    <g id="logo_01" data-name="logo 01" transform="translate(4025.822 19941.715)">
+      <rect id="Rectangle_2364" data-name="Rectangle 2364" width="61" height="60" rx="9" transform="translate(163.178 163.286)" fill="#2196f3"/>
+      <g id="Group_2913" data-name="Group 2913" transform="translate(170.886 171.615)">
+        <g id="Group_2912" data-name="Group 2912" transform="translate(0 0)">
+          <g id="Group_2909" data-name="Group 2909">
+            <g id="Group_2908" data-name="Group 2908">
+              <circle id="Ellipse_165" data-name="Ellipse 165" cx="3.697" cy="3.697" r="3.697" transform="translate(14.783 36.334)" fill="#fff"/>
+              <circle id="Ellipse_166" data-name="Ellipse 166" cx="3.697" cy="3.697" r="3.697" transform="translate(32.075 36.334)" fill="#fff"/>
+              <path id="Path_39594" data-name="Path 39594" d="M346.344,316.783h-19.6l-1.85-3.361-.8-1.456h21.385v-4.817H321.446l-5.1-9.248H308.1v4.817h5.88l2.478,4.506a6.465,6.465,0,0,0-4.834,3.884,8.018,8.018,0,0,0-.584,4.63,7.633,7.633,0,0,0,1.123,2.888,6.207,6.207,0,0,0,5.154,2.962h7.07l3.447,6.261a7.292,7.292,0,0,0,6.343,3.983h12.168c3.667,0,6.651-3.373,6.651-7.518S350.022,316.783,346.344,316.783Zm-29.016,0a2.085,2.085,0,0,1-1.718-.983c-.011-.012-.022-.037-.033-.05a2.612,2.612,0,0,1-.143-2.452,2.078,2.078,0,0,1,1.894-1.319h1.762l.8,1.456,1.85,3.361h-4.416Zm29.016,10.232H334.176a3.142,3.142,0,0,1-2.731-1.718l-2.048-3.709h16.947a2.734,2.734,0,0,1,0,5.427Z" transform="translate(-308.1 -297.9)" fill="#fff"/>
+              <rect id="Rectangle_2365" data-name="Rectangle 2365" width="19.53" height="4.805" transform="translate(8.688 29.114)" fill="#fff"/>
+            </g>
+            <path id="Path_39595" data-name="Path 39595" d="M640.5,335.6v13.319l6.672-6.659Z" transform="translate(-604.978 -330.907)" fill="#fff"/>
+            <path id="Path_39596" data-name="Path 39596" d="M348.7,504.259l6.659,6.672V497.6Z" transform="translate(-343.646 -472.743)" fill="#fff"/>
+          </g>
+        </g>
+      </g>
+    </g>
+    <text id="Switch" transform="translate(4323 20150)" font-size="42" font-family="Roboto-Medium, Roboto" font-weight="500"><tspan x="-63.277" y="0">Switch</tspan></text>
+  </g>
+</svg>
